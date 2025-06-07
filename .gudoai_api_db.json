@@ -1,0 +1,61 @@
+{
+  "8887ebae-c373-4728-ad70-72c5d6b86b83": {
+    "project_id": "8887ebae-c373-4728-ad70-72c5d6b86b83",
+    "project_name": "myproject3",
+    "commit_hash": "a103bef98735dd6d6f5ae627d73d13371dee76f4",
+    "version": 2,
+    "description": "third project",
+    "is_deployed": false,
+    "file_manifest": [
+      "gudoai_meta.json"
+    ]
+  },
+  "b0bfff91-52ad-4424-86f0-7a6cf828aad1": {
+    "project_id": "b0bfff91-52ad-4424-86f0-7a6cf828aad1",
+    "project_name": "myproject3",
+    "commit_hash": "813adfdda949b042368d35f0226e31ef065fba55",
+    "version": 2,
+    "description": "third project",
+    "file_manifest": [
+      "gudoai_meta.json"
+    ],
+    "last_synced_commit": "813adfdda949b042368d35f0226e31ef065fba55",
+    "is_deployed": false
+  },
+  "b2ae202e-dafe-43d1-874f-223c9f691389": {
+    "project_id": "b2ae202e-dafe-43d1-874f-223c9f691389",
+    "project_name": "myproject4",
+    "commit_hash": "0b7f84fa8cec0a613fe4ed2fc8ac877e427e3032",
+    "version": 2,
+    "description": "Project 4",
+    "file_manifest": [
+      "gudoai_meta.json"
+    ],
+    "last_synced_commit": "0b7f84fa8cec0a613fe4ed2fc8ac877e427e3032",
+    "is_deployed": false
+  },
+  "03b3b7f4-f12c-473a-8ce3-326a3953445e": {
+    "project_id": "03b3b7f4-f12c-473a-8ce3-326a3953445e",
+    "project_name": "myproject5",
+    "commit_hash": "fa7d9bcf383e2b93964bb88cfecfeccf2b945acc",
+    "version": 2,
+    "description": "Project 5",
+    "file_manifest": [
+      "gudoai_meta.json"
+    ],
+    "last_synced_commit": "fa7d9bcf383e2b93964bb88cfecfeccf2b945acc",
+    "is_deployed": false
+  },
+  "f91258af-0c26-43f9-bdb6-0240c95efe97": {
+    "project_id": "f91258af-0c26-43f9-bdb6-0240c95efe97",
+    "project_name": "myproject6",
+    "commit_hash": "9656cf8f64975e0aa1efba3aacd35bf273c4066e",
+    "version": 2,
+    "description": "My six GUDOAI project",
+    "file_manifest": [
+      "gudoai_meta.json"
+    ],
+    "last_synced_commit": "9656cf8f64975e0aa1efba3aacd35bf273c4066e",
+    "is_deployed": false
+  }
+}
